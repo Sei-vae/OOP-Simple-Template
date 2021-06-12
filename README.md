@@ -1,6 +1,6 @@
-# OOP-Doctor-Tool
+# OOP-Simple-Template
 
-<p align="center">OOP Entrance Project.</p>
+<p align="center">Building->Door->Resident->etc.</p>
 
 <p align="center">
 Why OOP?
